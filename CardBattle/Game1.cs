@@ -26,11 +26,14 @@ public class Game1 : Core
     protected override void LoadContent()
     {
         // TODO: use this.Content to load your game content here
-        foreach (string i in family) {
-            foreach (string j in value){
-                    cards[$"{i}_{j}"] = Content.Load<Texture2D>($"images/{i}/{i}_{j}");
-                }
+        foreach (string i in family)
+        {
+            foreach (string j in value)
+            {
+                cards[$"{i}_{j}"] = Content.Load<Texture2D>($"images/{i}/{i}_{j}");
+            }
         }
+        cards[$"back_07"] = Content.Load<Texture2D>($"images/back/back07");
         base.LoadContent();
     }
 
@@ -49,7 +52,7 @@ public class Game1 : Core
         GraphicsDevice.Clear(Color.CornflowerBlue);
         SpriteBatch.Begin();
 
-        SpriteBatch.Draw(cards["spades_02"], Vector2.Zero, Color.White);
+        SpriteBatch.Draw(cards["back_07"], Vector2.Zero, Color.White);
 
         SpriteBatch.End();
         // TODO: Add your drawing code here
