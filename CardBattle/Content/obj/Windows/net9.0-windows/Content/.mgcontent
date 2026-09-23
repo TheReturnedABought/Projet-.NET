@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/back/back07.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_02.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_03.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_04.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_05.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_06.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_07.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_08.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_09.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_10.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_ace.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_jack.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_king.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/clubs/clubs_queen.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_02.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_03.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_04.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_05.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_06.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_07.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_08.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_09.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_10.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_ace.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_jack.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_king.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/diamonds/diamonds_queen.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red1.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red2.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red3.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red4.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red5.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_red6.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white1.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white2.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white3.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white4.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white5.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/dices/Dice_white6.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_02.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_03.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_04.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_05.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_06.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_07.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_08.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_09.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_10.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_ace.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_jack.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_king.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/hearts/hearts_queen.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_02.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_03.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_04.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_05.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_06.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_07.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_08.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_09.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_10.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_ace.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_jack.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_king.png</File>
+    <File>C:/Users/lemai/OneDrive/Documents/Naifu/Projet-.NET/CardBattle/Content/images/spades/spades_queen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

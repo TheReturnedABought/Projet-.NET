@@ -11,3 +11,16 @@ E:\Github\repo_net\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.
 E:\Github\repo_net\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 E:\Github\repo_net\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 E:\Github\repo_net\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+C:\Users\lemai\OneDrive\Documents\Naifu\Projet-.NET\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll

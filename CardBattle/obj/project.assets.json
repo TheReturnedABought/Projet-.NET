@@ -4175,32 +4175,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thomas Girboux\\.nuget\\packages\\": {},
-    "E:\\ProgramFiles\\VisualStudios\\Components\\NuGetPackages": {}
+    "C:\\Users\\lemai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github\\repo_net\\Projet-.NET\\CardBattle\\CardBattle.csproj",
+      "projectUniqueName": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\CardBattle\\CardBattle.csproj",
       "projectName": "CardBattle",
-      "projectPath": "E:\\Github\\repo_net\\Projet-.NET\\CardBattle\\CardBattle.csproj",
-      "packagesPath": "C:\\Users\\Thomas Girboux\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\repo_net\\Projet-.NET\\CardBattle\\obj\\",
+      "projectPath": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\CardBattle\\CardBattle.csproj",
+      "packagesPath": "C:\\Users\\lemai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\CardBattle\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\ProgramFiles\\VisualStudios\\Components\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Thomas Girboux\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\lemai\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4208,8 +4200,8 @@
           "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "E:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-              "projectPath": "E:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj"
+            "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+              "projectPath": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj"
             }
           }
         }

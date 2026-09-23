@@ -288,32 +288,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thomas Girboux\\.nuget\\packages\\": {},
-    "E:\\ProgramFiles\\VisualStudios\\Components\\NuGetPackages": {}
+    "C:\\Users\\lemai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "projectName": "MonoGameLibrary",
-      "projectPath": "e:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj",
-      "packagesPath": "C:\\Users\\Thomas Girboux\\.nuget\\packages\\",
-      "outputPath": "e:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\obj\\",
+      "projectPath": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "packagesPath": "C:\\Users\\lemai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lemai\\OneDrive\\Documents\\Naifu\\Projet-.NET\\MonoGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\ProgramFiles\\VisualStudios\\Components\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Thomas Girboux\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\lemai\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
