@@ -1427,6 +1427,16 @@
             "related": ".xml"
           }
         }
+      },
+      "MonoGameLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MonoGameLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MonoGameLibrary.dll": {}
+        }
       }
     }
   },
@@ -4150,12 +4160,18 @@
         "system.threading.tasks.4.3.0.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "MonoGameLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MonoGameLibrary/MonoGameLibrary.csproj",
+      "msbuildProject": "../MonoGameLibrary/MonoGameLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0-windows": [
       "MonoGame.Content.Builder.Task >= 3.8.*",
-      "MonoGame.Framework.WindowsDX >= 3.8.*"
+      "MonoGame.Framework.WindowsDX >= 3.8.*",
+      "MonoGameLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4191,7 +4207,11 @@
         "net9.0-windows": {
           "framework": "net9.0-windows7.0",
           "targetAlias": "net9.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+              "projectPath": "E:\\Github\\repo_net\\Projet-.NET\\MonoGameLibrary\\MonoGameLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

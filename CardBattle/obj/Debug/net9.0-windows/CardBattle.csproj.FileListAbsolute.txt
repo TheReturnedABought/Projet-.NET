@@ -26,3 +26,5 @@ E:\Github\repo_net\Projet-.NET\CardBattle\obj\Debug\net9.0-windows\refint\CardBa
 E:\Github\repo_net\Projet-.NET\CardBattle\obj\Debug\net9.0-windows\CardBattle.pdb
 E:\Github\repo_net\Projet-.NET\CardBattle\obj\Debug\net9.0-windows\CardBattle.genruntimeconfig.cache
 E:\Github\repo_net\Projet-.NET\CardBattle\obj\Debug\net9.0-windows\ref\CardBattle.dll
+E:\Github\repo_net\Projet-.NET\CardBattle\bin\Debug\net9.0-windows\MonoGameLibrary.dll
+E:\Github\repo_net\Projet-.NET\CardBattle\bin\Debug\net9.0-windows\MonoGameLibrary.pdb

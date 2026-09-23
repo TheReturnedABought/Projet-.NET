@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "CardBattle/1.0.0": {
         "dependencies": {
-          "MonoGame.Framework.WindowsDX": "3.8.5.1"
+          "MonoGame.Framework.WindowsDX": "3.8.5.1",
+          "MonoGameLibrary": "1.0.0"
         },
         "runtime": {
           "CardBattle.dll": {}
@@ -131,6 +132,14 @@
             "fileVersion": "4.0.1.0"
           }
         }
+      },
+      "MonoGameLibrary/1.0.0": {
+        "runtime": {
+          "MonoGameLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -209,6 +218,11 @@
       "sha512": "sha512-vDnp6CTVC9dKQHwLVF4GLNdCJqGMUuxyZLLlorDjgnVOOO7koPR20/tqt1A53gnNy/Id93Nzq7K2ILLvBQWvGQ==",
       "path": "sharpdx.xinput/4.0.1",
       "hashPath": "sharpdx.xinput.4.0.1.nupkg.sha512"
+    },
+    "MonoGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
